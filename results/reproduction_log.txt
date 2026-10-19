@@ -1,0 +1,80 @@
+{
+  "seed": 4172026,
+  "matrix_cases": 570,
+  "max_covariance_error": 2.886579864025407e-15,
+  "max_welfare_error": 1.2434497875801753e-14,
+  "max_rule_error": 8.981704269217516e-14,
+  "max_joint_posterior_error": 2.498001805406602e-16,
+  "composition_checks": 500,
+  "max_ES_quadrature_error": 1.1235457009206584e-13,
+  "exact_reversal_threshold": "30866/99975",
+  "threshold_decimal": 0.308737184296074,
+  "exact_choices": [
+    {
+      "external_cost": "3/10",
+      "total": "677/465",
+      "winners": [
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "external_cost": "30866/99975",
+      "total": "3149/2150",
+      "winners": [
+        [
+          0,
+          1
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "external_cost": "8/25",
+      "total": "3149/2150",
+      "winners": [
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "wrong_independent_formula_reuse_choice": [
+    1.1504411764705882,
+    3
+  ],
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "matplotlib": "3.10.8",
+  "all_checks_passed": true
+}
+{
+  "max_direct_matrix_error": 3.552713678800501e-15,
+  "global_production_design": {
+    "g": 4,
+    "k": 0,
+    "h": 1,
+    "private_weight": 0.5376344086021505,
+    "J": 1.1559139784946237,
+    "production_cost": 0.5,
+    "report_cost": 0.0,
+    "external_cost": 0.3,
+    "total": 1.9559139784946238
+  },
+  "voluntary_threshold": 1.0,
+  "welfare_jump_at_improvement": 2.7125,
+  "diagnostic_first_source_gain": 2.5,
+  "diagnostic_source_cost": 0.3
+}
+{
+  "max_reuse_premium_matrix_error": 1.942890293094024e-16,
+  "max_voluntary_acquisition_matrix_error": 0.0,
+  "passed": true
+}

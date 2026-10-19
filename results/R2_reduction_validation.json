@@ -1,0 +1,71 @@
+{
+  "all_checks_passed": true,
+  "parameter_cases": 108,
+  "count_pairs": 4397,
+  "composition_comparisons": 10014,
+  "original_global_designs": 8214,
+  "reduced_global_pairs": 4397,
+  "global_tied_cases": 21,
+  "arithmetic": "exact fractions, no floating tolerance",
+  "composition_examples": [
+    {
+      "c_E": "1/5",
+      "d": "9/200",
+      "N": 4,
+      "m": 2,
+      "J": "235/191",
+      "optimal_k": [
+        0
+      ],
+      "totals": {
+        "0": "7183/3820",
+        "1": "73549/38200",
+        "2": "18817/9550"
+      }
+    },
+    {
+      "c_E": "3/10",
+      "d": "-11/200",
+      "N": 4,
+      "m": 2,
+      "J": "235/191",
+      "optimal_k": [
+        2
+      ],
+      "totals": {
+        "0": "7947/3820",
+        "1": "77369/38200",
+        "2": "18817/9550"
+      }
+    },
+    {
+      "c_E": "49/200",
+      "d": "0",
+      "N": 4,
+      "m": 2,
+      "J": "235/191",
+      "optimal_k": [
+        0,
+        1,
+        2
+      ],
+      "totals": {
+        "0": "18817/9550",
+        "1": "18817/9550",
+        "2": "18817/9550"
+      }
+    }
+  ],
+  "production_example": {
+    "minimum": "1819/930",
+    "decimal": 1.9559139784946236,
+    "winners": [
+      [
+        4,
+        0,
+        1
+      ]
+    ]
+  },
+  "scope": "finite deterministic model checks; synthetic, no empirical observations"
+}

@@ -1,0 +1,85 @@
+{
+  "all_checks_passed": true,
+  "raw_strategy_cases": 192,
+  "strategy_count_per_type": 36,
+  "cases_with_multiple_best_plans": 63,
+  "incremental_score_IC_cases": 10,
+  "general_no_audit_incentive_bound": "3/50",
+  "exact_raw_team_optimizations": 231,
+  "raw_cost_audit_transfer_checks": 87,
+  "gamma_switch": "196839/335861",
+  "gamma_switch_decimal": 0.5860728098826598,
+  "witnesses": [
+    {
+      "gamma": "0",
+      "minimum": "19075691/1521100",
+      "decimal": 12.540721188613503,
+      "winners": [
+        {
+          "contract": "P",
+          "bonus": "1/2",
+          "mode": "targeted",
+          "p": "1/2",
+          "transfer": "263/2000"
+        },
+        {
+          "contract": "P",
+          "bonus": "1",
+          "mode": "targeted",
+          "p": "1/2",
+          "transfer": "263/1000"
+        }
+      ]
+    },
+    {
+      "gamma": "196839/335861",
+      "minimum": "3035369/241900",
+      "decimal": 12.548032244729226,
+      "winners": [
+        {
+          "contract": "P",
+          "bonus": "1/2",
+          "mode": "targeted",
+          "p": "1/2",
+          "transfer": "263/2000"
+        },
+        {
+          "contract": "P",
+          "bonus": "1",
+          "mode": "targeted",
+          "p": "1/2",
+          "transfer": "263/1000"
+        },
+        {
+          "contract": "U9/10",
+          "bonus": "1",
+          "mode": "pooled",
+          "p": "1",
+          "transfer": "13/20"
+        }
+      ]
+    },
+    {
+      "gamma": "1",
+      "minimum": "3035369/241900",
+      "decimal": 12.548032244729226,
+      "winners": [
+        {
+          "contract": "U9/10",
+          "bonus": "1",
+          "mode": "pooled",
+          "p": "1",
+          "transfer": "13/20"
+        }
+      ]
+    }
+  ],
+  "contractible_optimum_at_gamma0": {
+    "value": "3734341/302375",
+    "decimal": 12.350032244729228,
+    "production_probability": "1",
+    "mode": "pooled"
+  },
+  "flat_report_resource_loss": "64/5",
+  "scope": "synthetic binary model; bounded finite contract class; no empirical data"
+}

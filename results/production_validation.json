@@ -1,0 +1,18 @@
+{
+  "max_direct_matrix_error": 3.552713678800501e-15,
+  "global_production_design": {
+    "g": 4,
+    "k": 0,
+    "h": 1,
+    "private_weight": 0.5376344086021505,
+    "J": 1.1559139784946237,
+    "production_cost": 0.5,
+    "report_cost": 0.0,
+    "external_cost": 0.3,
+    "total": 1.9559139784946238
+  },
+  "voluntary_threshold": 1.0,
+  "welfare_jump_at_improvement": 2.7125,
+  "diagnostic_first_source_gain": 2.5,
+  "diagnostic_source_cost": 0.3
+}
