@@ -1,0 +1,5 @@
+outcome,estimand,estimate,uncertainty,status
+normalized_unit_mse,ITT_B_minus_A,NOT_ESTIMATED,NOT_ESTIMATED,No real panel available
+bias_adjusted_covariance,ITT_B_minus_A,NOT_ESTIMATED,NOT_ESTIMATED,No real panel available
+accounting_loss,ITT_B_minus_A,NOT_ESTIMATED,NOT_ESTIMATED,No real panel available
+observed_capacity_loss,ITT_B_minus_A,NOT_ESTIMATED,NOT_ESTIMATED,No real panel available

@@ -1,0 +1,29 @@
+# R3 primary comparison and claim boundary
+
+Checked 17 October 2026. This is a targeted primary-literature comparison, not a certificate of global novelty. The inherited Gaussian method and R2 count clarification remain credited in the main bibliography and prior ledger.
+
+| Primary result | Inspected version and relevant part | Mapping and remaining finite increment |
+|---|---|---|
+| Papireddygari and Waggoner, Contracts with Information Acquisition, via Scoring Rules | EC 2022 proceedings DOI 10.1145/3490486.3538261; inspected full formal text arXiv:2204.01773v2, deposited 10 June, title date 13 June 2022; Section 2.1, Proposition 1 and finite deviation formulation | Acquisition/report IC and scoring-rule logic are inherited. Here a raw weaker-source bit differs from the optimal posterior forecast; paid origin evidence is an additional observable. No new proper-scoring reduction is claimed. |
+| Zarkoob, Fu and Leyton-Brown, Report-Sensitive Spot-Checking in Peer-Grading Systems | Final AAMAS 2020 proceedings pp.1593-1601, Sections 1-3; first page says it supersedes the 2019 extended abstract. The 2021 arXiv revision was also read and is not substituted for the final paper. | Report-dependent checking and manipulation of checking probabilities are established. Our restricted increment is joint audit/channel choice under stronger common information, fabricated opposite reports and real coordination loss. |
+| Wang, An and Jiang, Optimal Spot-Checking for Improving Evaluation Accuracy of Peer Grading Systems | Final AAAI 2018 text, pp.833-840; Model, expected utility equation (1), checking optimization equations (5)-(8) | Verified effort, heterogeneous production costs, checking and aggregation are already combined. Our additional table explicitly permits copying a known better source and report-direction changes under selective checks, then optimizes two operating channels. |
+| Cacciamani, Castiglioni and Gatti, Online Information Acquisition: Hiring Multiple Agents | Final ICLR 2024 proceedings record verified. Full formal text inspected is arXiv:2307.06210v1, 12 July 2023, Section 2, effort/report deviation functions and programme (1). Final OpenReview PDF returned a browser-verification page. | General joint acquisition, elicitation and decisions are inherited. Adding a stochastic origin-audit outcome maps our IC comparisons to that finite principal-agent logic. Our bounded coordination switch is an explicit special application, not a superior general contract algorithm. |
+| Gao, Wright and Leyton-Brown, Incentivizing Evaluation with Peer Prediction and Limited Access to Ground Truth | 2019 Artificial Intelligence publisher record; inspected IJCAI 2020 extended abstract, explicitly labeled as such | Costly effort and trusted checking are predecessors. We do not claim novelty for spot checks or truthfulness through checking. Journal full text is not silently asserted inspected. |
+| Clark and Reggiani, Contracts for Acquiring Information | Full 2021 arXiv:2103.03911v1, Section 3, Propositions 1 and 3; no later publication status established | General information-acquisition contracting with liability limits is background. The finite payment grid, late paid origin audit and channel constraint here are explicit additional restrictions. |
+
+## Exact bounded claim
+
+Theorem 4 is an explicit finite moral-hazard/reporting calculation using inherited methods. Selective auditing by itself is not new. The proposed additional economic result is Theorem 6: increasing real coordination cost switches the optimum from targeted access with an unaudited incremental-information score and partial true production to pooled access with uniform checks and full true production. Its proof uses the direction of the unproduced report, the hidden-origin posterior loss, and channel-dependent coordination value together. It remains restricted to the two bonus levels, two positive audit rates, perfect paid ex post origin verification, one supplier/two types and two operating channels. A broader framework can encode the example; no claim is made that these general ingredients or an unrestricted design margin were globally unstudied.
+
+## Primary links and access records
+
+- EC publication DOI/record: https://doi.org/10.1145/3490486.3538261 (direct DOI opening failed on R3 retry; primary indexed proceedings record was available). Full formal version: https://arxiv.org/pdf/2204.01773 .
+- Final AAMAS text: https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1593.pdf . Separate later working text: https://arxiv.org/pdf/1906.05884 .
+- Final AAAI text: https://ojs.aaai.org/index.php/AAAI/article/download/11336/11195 . Primary Model section explicitly conditions rewards on checked effort.
+- Final ICLR record: https://proceedings.iclr.cc/paper_files/paper/2024/hash/6358cd0cd6607fdf4870595795eb1710-Abstract-Conference.html . Inspected preprint: https://arxiv.org/pdf/2307.06210 .
+- Gao journal record: https://www.sciencedirect.com/science/article/pii/S0004370219301559 . Inspected extended abstract: https://www.ijcai.org/proceedings/2020/0723.pdf .
+- Clark-Reggiani full working paper: https://arxiv.org/pdf/2103.03911 . Author-hosted alternative retrieval failed on R3 retry.
+
+The prior blocked Yang full-text competitor remains unresolved. None of these access limitations is converted into a priority claim.
+
+Lemma 2's broader bounded-outcome incentive bound is explicitly a binary specialization of inherited information-elicitation methods. It is not offered as the original mechanism. The actual feasible catalogue includes the unaudited incremental score, so its low-coordination optimum is not forced to audit by excluding every informative no-audit contract. Full unaudited production at the witness is separately excluded by the bound .06 below the high cost .55.
